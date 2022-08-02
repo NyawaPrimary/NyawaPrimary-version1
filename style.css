@@ -74,6 +74,7 @@ section .title::after{
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
+    color: dark white;
 }
 
 /* navbar styling */
